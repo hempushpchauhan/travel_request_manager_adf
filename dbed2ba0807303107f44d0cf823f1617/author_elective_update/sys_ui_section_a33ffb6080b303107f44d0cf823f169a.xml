@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="a33ffb6080b303107f44d0cf823f169a" sys_domain="global" table="x_cdltd_travel_r_0_travel_request" version="3" view="Travel_Desk_View">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>director_approval_needed</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-05 07:00:28</sys_created_on>
+            <sys_id>dc6fbf6080b303107f44d0cf823f1677</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-05 07:00:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-05 07:00:28</sys_created_on>
+            <sys_id>506fbf6080b303107f44d0cf823f1678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-05 07:00:28</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visa_required</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-05 07:00:28</sys_created_on>
+            <sys_id>d06fbf6080b303107f44d0cf823f1678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-05 07:00:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-05 07:00:28</sys_created_on>
+            <sys_id>546fbf6080b303107f44d0cf823f1678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-05 07:00:28</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>booking_reference</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-05 07:00:28</sys_created_on>
+            <sys_id>d46fbf6080b303107f44d0cf823f1678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-05 07:00:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>visa_details</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-05 07:00:28</sys_created_on>
+            <sys_id>586fbf6080b303107f44d0cf823f1678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-05 07:00:28</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_cdltd_travel_r_0_travel_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2026-10-05 06:59:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a33ffb6080b303107f44d0cf823f169a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_cdltd_travel_r_0_travel_request</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Travel Request Manager" source="x_cdltd_travel_r_0">dbed2ba0807303107f44d0cf823f1617</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Travel Request Manager">dbed2ba0807303107f44d0cf823f1617</sys_scope>
+            <sys_update_name>sys_ui_section_a33ffb6080b303107f44d0cf823f169a</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2026-10-05 06:59:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Travel Desk View" name="Travel_Desk_View">560ebb2080b303107f44d0cf823f160d</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Travel Request Manager">dbed2ba0807303107f44d0cf823f1617</application>
+        <file_path/>
+        <instance_id>615c1b1e97eb8358260976c71153af29</instance_id>
+        <instance_name>nowlearning-nlinst04733254-5ppmu-0001</instance_name>
+        <name>sys_ui_section_a33ffb6080b303107f44d0cf823f169a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="a33ffb6080b303107f44d0cf823f169a" sys_domain="global" table="x_cdltd_travel_r_0_travel_request" version="3" view="Travel_Desk_View"><sys_ui_element action="INSERT_OR_UPDATE"><element>director_approval_needed</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-05 07:00:28</sys_created_on><sys_id>dc6fbf6080b303107f44d0cf823f1677</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-05 07:00:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-05 07:00:28</sys_created_on><sys_id>506fbf6080b303107f44d0cf823f1678</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-05 07:00:28</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visa_required</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-05 07:00:28</sys_created_on><sys_id>d06fbf6080b303107f44d0cf823f1678</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-05 07:00:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.end_split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-05 07:00:28</sys_created_on><sys_id>546fbf6080b303107f44d0cf823f1678</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-05 07:00:28</sys_updated_on><sys_user/><type>.end_split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>booking_reference</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-05 07:00:28</sys_created_on><sys_id>d46fbf6080b303107f44d0cf823f1678</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-05 07:00:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>visa_details</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-05 07:00:28</sys_created_on><sys_id>586fbf6080b303107f44d0cf823f1678</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_cdltd_travel_r_0_travel_request" sys_domain="global" view="560ebb2080b303107f44d0cf823f160d">a33ffb6080b303107f44d0cf823f169a</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-05 07:00:28</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_cdltd_travel_r_0_travel_request</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2026-10-05 06:59:52</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a33ffb6080b303107f44d0cf823f169a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_cdltd_travel_r_0_travel_request</sys_name><sys_overrides/><sys_package display_value="Travel Request Manager" source="x_cdltd_travel_r_0">dbed2ba0807303107f44d0cf823f1617</sys_package><sys_policy/><sys_scope display_value="Travel Request Manager">dbed2ba0807303107f44d0cf823f1617</sys_scope><sys_update_name>sys_ui_section_a33ffb6080b303107f44d0cf823f169a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2026-10-05 06:59:52</sys_updated_on><sys_user/><title>false</title><view display_value="Travel Desk View" name="Travel_Desk_View">560ebb2080b303107f44d0cf823f160d</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-98894485</payload_hash>
+        <record_name>Travel Request</record_name>
+        <reverted_from/>
+        <source>5e30f724807303107f44d0cf823f168e</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-05 07:00:28</sys_created_on>
+        <sys_id>506fbf6080b303107f44d0cf823f1679</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1a10add2a460000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-05 07:00:28</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>5c6fbf6085b30310fc20acf9af2c8578</update_guid>
+        <update_guid_history>5c6fbf6085b30310fc20acf9af2c8578:-98894485,2f3f3f60e8b3031055378821774e361f:-1183532752</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2026-10-05 07:03:37</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>1d0480920cbf4590b8739597eb7c8151</sys_id>
+        <sys_metadata>a33ffb6080b303107f44d0cf823f169a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Travel Request Manager" source="x_cdltd_travel_r_0">dbed2ba0807303107f44d0cf823f1617</sys_package>
+        <sys_parent display_value="Travel Request">173febe0807303107f44d0cf823f162d</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Travel Request Manager">dbed2ba0807303107f44d0cf823f1617</sys_scope>
+        <sys_scope_delete display_value="">33325471bd8d455e9101de0bd05d72a9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a33ffb6080b303107f44d0cf823f169a</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a33ffb6080b303107f44d0cf823f169a">506fbf6080b303107f44d0cf823f1679</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2026-10-05 07:03:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
